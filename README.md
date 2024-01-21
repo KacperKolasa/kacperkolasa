@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Penetration Testing Practice
-  - [Practicing Penetration Testing with OverTheWire Natas CTF](https://github.com/kacperkolasa/temp)
+  - [Practicing Penetration Testing with OverTheWire Natas CTF](https://github.com/KacperKolasa/OTWNatas/blob/main/README.md)
 
 <h2>📜 Certifications </h2>
 
