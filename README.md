@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Data Structures and Algorithms Practice (AlgoExpert)
-  - [Praciting DS & Algos in Python](https://github.com/kacperkolasa/temp)
+- Penetration Testing Practice
+  - [Practicing Penetration Testing with OverTheWire Natas CTF](https://github.com/kacperkolasa/temp)
 
 <h2>📜 Certifications </h2>
 
