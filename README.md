@@ -4,6 +4,7 @@
 
 - Penetration Testing Practice
   - [Practicing Penetration Testing with OverTheWire Natas CTF](https://github.com/KacperKolasa/OTWNatas/blob/main/README.md)
+- [Automatic Cyber Security AWS Alert System](https://github.com/KacperKolasa/Automatic-Cyber-Security-Alerting-AWS-System)
 
 <h2>📜 Certifications </h2>
 
