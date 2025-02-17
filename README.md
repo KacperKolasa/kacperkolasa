@@ -8,6 +8,7 @@
 
 <h2>📜 Certifications </h2>
 
+- CompTIA Security+
 - [Google Cybersecurity](https://coursera.org/verify/professional-cert/ZPQUJYYWUTLF)
 - [IBM Microsoft Windows Defender and Firewall for Beginners](https://coursera.org/verify/H65CPFAKC8RL)
 - [Agile with Atlassian Jira](https://coursera.org/verify/KGK9ZNQFZ8HE)
